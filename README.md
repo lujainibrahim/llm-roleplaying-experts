@@ -1,5 +1,5 @@
 # Comparing the persuasiveness of role-playing large language models and human experts on polarized U.S. political issues
-This repository contains the data and code to support the paper [Comparing the persuasiveness of role-playing large language models and human experts on polarized U.S. political issues](url), authored by Kobi Hackenburg, Lujain Ibrahim, Ben Tappin, and Manos Tsakiris
+This repository contains the data and code to support the paper [Comparing the persuasiveness of role-playing large language models and human experts on polarized U.S. political issues](https://osf.io/preprints/osf/ey8db), authored by Kobi Hackenburg, Lujain Ibrahim, Ben Tappin, and Manos Tsakiris
 
 ## Repository Content
 ### Data
